@@ -1,0 +1,16 @@
+#boxes {
+    width:50%;
+}
+#one {
+    float:left;
+}
+#two {
+    float: right;
+}
+#one p, #two p {
+    width: 25%;
+}
+#boxes img {
+    Width: 100px;
+    height: 100px;
+}
